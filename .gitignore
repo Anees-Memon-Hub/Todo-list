@@ -1,0 +1,10 @@
+# Database
+tasks.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
