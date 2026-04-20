@@ -18,15 +18,7 @@ This project features a clean GUI, persistent storage using SQLite, and smooth t
 
 ---
 
-## 🖼️ Preview
 
-> *(Add a screenshot here for best results)*
-
-Example:
-
-![App Screenshot](screenshot.png)
-
----
 
 ## 🛠️ Tech Stack
 
